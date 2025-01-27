@@ -14,8 +14,8 @@ public class Task4Arithmetic {
         // Compound assignment operators -= += /= x=
         //age1 -= age2;
         //System.out.println(age1);
-        //age1 /= age2;
-        //System.out.println(age1);
+        age1 /= age2;
+        System.out.println(age1);
 
 
 
