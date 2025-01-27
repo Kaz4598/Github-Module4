@@ -13,7 +13,6 @@ public class Etc {
         System.out.println(""+parts + isReleased);
 
         // .concat() method
-
         //System.out.println(movieName.concat(parts+""));
 
 
