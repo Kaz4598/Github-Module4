@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/Etc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
     "last_opened_file_path": "C:/Users/igbal/IdeaProjects/Github-Module4"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringOperations">
+  <component name="RunManager" selected="Application.Task2">
     <configuration name="CondRelatLogicStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CondRelatLogicStatement" />
       <module name="Github-Module4" />
@@ -73,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Etc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Etc" />
-      <module name="Github-Module4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringOperations" />
       <module name="Github-Module4" />
@@ -87,13 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2" />
+      <module name="Github-Module4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task2" />
         <item itemvalue="Application.StringOperations" />
         <item itemvalue="Application.CordRelatnLogicalStatement" />
         <item itemvalue="Application.CondRelatnLogicStatement" />
         <item itemvalue="Application.CondRelatLogicStatement" />
-        <item itemvalue="Application.Etc" />
       </list>
     </recent_temporary>
   </component>
