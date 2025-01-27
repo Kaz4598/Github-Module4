@@ -4,8 +4,8 @@ public class Task4Arithmetic {
         double age1 = 20;
         double age2 = 30;
 
-        System.out.println(age1);
-        //System.out.println(age1+age2);
+        //System.out.println(age1);
+        System.out.println(age1+age2);
 
         // incremental and decremental ++ --
        // age1 --;
