@@ -7,9 +7,9 @@ public class Etc {
         System.out.println(newString);
 
         // String and primitive concat
-        String movieName = "anaconda: ";
-        int parts = 4;
-        boolean isReleased = false;
+       // String movieName = "anaconda: ";
+       // int parts = 4;
+        //boolean isReleased = false;
         //System.out.println(""+parts + isReleased);
 
         // .concat() method
