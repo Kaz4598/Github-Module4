@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="Task4Arithmetic.java">
+    <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/CordRelatnLogicalStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Etc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CondRelatLogicStatement.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CondRelatLogicStatement.executor": "Run",
+    "Application.CondRelatnLogicStatement.executor": "Run",
+    "Application.CordRelatnLogicalStatement.executor": "Run",
     "Application.Etc.executor": "Run",
+    "Application.StringOperations.executor": "Run",
     "Application.Task2.executor": "Run",
     "Application.Task4Arithmetic.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -49,7 +54,28 @@
     "last_opened_file_path": "C:/Users/igbal/IdeaProjects/Github-Module4"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task4Arithmetic">
+  <component name="RunManager" selected="Application.StringOperations">
+    <configuration name="CondRelatLogicStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondRelatLogicStatement" />
+      <module name="Github-Module4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CondRelatnLogicStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondRelatnLogicStatement" />
+      <module name="Github-Module4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CordRelatnLogicalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CordRelatnLogicalStatement" />
+      <module name="Github-Module4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Etc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Etc" />
       <module name="Github-Module4" />
@@ -57,15 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="Github-Module4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task4Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task4Arithmetic" />
+    <configuration name="StringOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringOperations" />
       <module name="Github-Module4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,9 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4Arithmetic" />
+        <item itemvalue="Application.StringOperations" />
+        <item itemvalue="Application.CordRelatnLogicalStatement" />
+        <item itemvalue="Application.CondRelatnLogicStatement" />
+        <item itemvalue="Application.CondRelatLogicStatement" />
         <item itemvalue="Application.Etc" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +181,70 @@
       <option name="project" value="LOCAL" />
       <updated>1737981549648</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737983933586</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737983933586</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737984460878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737984460878</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737984494274</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737984494274</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Etc.java">
+      <option name="closed" value="true" />
+      <created>1737984702468</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737984702469</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737985275680</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737985275680</updated>
+    </task>
+    <task id="LOCAL-00015" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737987742902</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737987742903</updated>
+    </task>
+    <task id="LOCAL-00016" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737999079737</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737999079737</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task commit" />
-    <MESSAGE value="init commit" />
     <MESSAGE value="Task4Arithmetic.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task4Arithmetic.java" />
+    <MESSAGE value="Etc.java" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
