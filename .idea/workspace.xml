@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/CordRelatnLogicalStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CondRelatLogicStatement.java" beforeDir="false" />
-    </list>
+    <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
