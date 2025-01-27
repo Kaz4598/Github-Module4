@@ -10,11 +10,17 @@ public class Etc {
         String movieName = "anaconda: ";
         int parts = 4;
         boolean isReleased = false;
-        System.out.println(""+parts + isReleased);
+        //System.out.println(""+parts + isReleased);
 
         // .concat() method
 
-        System.out.println(movieName.concat(parts+""));
+        //System.out.println(movieName.concat(parts+""));
+
+
+
+
+
+
 
 
     }

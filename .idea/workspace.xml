@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+    <list default="true" id="c367d56e-8bf0-4c71-8738-20fa745426a3" name="Changes" comment="Task4Arithmetic.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Etc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Etc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Igbalaye &lt;igbalayek@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -36,14 +40,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Etc.executor": "Run",
     "Application.Task2.executor": "Run",
+    "Application.Task4Arithmetic.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/igbal/IdeaProjects/Github-Module4"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Task4Arithmetic">
+    <configuration name="Etc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Etc" />
+      <module name="Github-Module4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task2" />
       <module name="Github-Module4" />
@@ -51,8 +64,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task4Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4Arithmetic" />
+      <module name="Github-Module4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4Arithmetic" />
+        <item itemvalue="Application.Etc" />
         <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
@@ -74,11 +96,77 @@
       <option name="project" value="LOCAL" />
       <updated>1737901993395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737914111536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737914111536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737914412716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737914412716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1737920906107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737920906107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task4Arithmetic.java">
+      <option name="closed" value="true" />
+      <created>1737981339952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981339953</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task4Arithmetic.java">
+      <option name="closed" value="true" />
+      <created>1737981401915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981401915</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task4Arithmetic.java">
+      <option name="closed" value="true" />
+      <created>1737981461212</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981461212</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task4Arithmetic.java">
+      <option name="closed" value="true" />
+      <created>1737981505919</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981505919</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task4Arithmetic.java">
+      <option name="closed" value="true" />
+      <created>1737981549647</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981549648</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task commit" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Task4Arithmetic.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task4Arithmetic.java" />
   </component>
 </project>

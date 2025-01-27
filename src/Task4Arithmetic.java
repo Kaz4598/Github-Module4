@@ -4,7 +4,7 @@ public class Task4Arithmetic {
         double age1 = 20;
         double age2 = 30;
 
-        //System.out.println(age1);
+        System.out.println(age1);
         //System.out.println(age1+age2);
 
         // incremental and decremental ++ --
@@ -14,8 +14,8 @@ public class Task4Arithmetic {
         // Compound assignment operators -= += /= x=
         //age1 -= age2;
         //System.out.println(age1);
-        age1 /= age2;
-        System.out.println(age1);
+        //age1 /= age2;
+        //System.out.println(age1);
 
 
 
